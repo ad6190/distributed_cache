@@ -1,4 +1,4 @@
 # distributed_cache
 
 TODO
-- LRU Cache
+ - Implement an LRU Cache using dictionary and dequeue
